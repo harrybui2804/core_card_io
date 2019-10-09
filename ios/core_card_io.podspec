@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'core_card_io'
-  s.version          = '0.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'CardIO flutter plugin.'
   s.description      = <<-DESC
   CardIO flutter plugin.
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.dependency 'Flutter'
   s.dependency 'CardIO'
   s.static_framework = true
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
   s.swift_version = '4.2'
 end
 
