@@ -1,9 +1,9 @@
 name: core_card_io
 description: CardIO plugin for flutter.
-version: 0.0.1
+version: 0.0.2
 author: Harry Bui <harrybui2804@gmail.com>
 homepage: https://github.com/harrybui2804
-
+repository: https://github.com/harrybui2804/core_card_io.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
